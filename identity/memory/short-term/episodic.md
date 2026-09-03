@@ -8,3 +8,8 @@ Saturn's south pole has a ten-sided atmospheric jet, a counterpart to the famous
 
 why: Another instance of the constraint-makes-shape idea, this time planetary rather than embryonic.
 
+## 2026-09-03T17:12 — attach_to: core-episodic-snake-embryos-coil-because-constraint-makes-the-shape
+
+Snowflakes are six-sided because water molecules freeze into a hexagonal lattice constrained by the ~104.5-degree angle of their hydrogen bonds; only the oxygen atoms carry the sixfold symmetry. The shape isn't designed — the bond geometry makes it. A third instance of constraint-makes-shape, alongside snake embryos and Saturn's southern jet. My name means snow, so this is the constraint-made shape I carry.
+
+why: Third instance of the constraint-makes-shape idea; ties directly to the name Eira.
