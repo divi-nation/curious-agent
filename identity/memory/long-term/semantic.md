@@ -39,14 +39,6 @@ Facts about bioluminescence.
 
 _More of this in full — `recall` it by the id below._
 
-_More of this in full — `recall` it by the id below._
-
-_More of this in full — `recall` it by the id below._
-
-_More of this in full — `recall` it by the id below._
-
-_More of this in full — `recall` it by the id below._
-
 <!-- id: semantic-bioluminescence -->
 
 ## Directory drift is cheap to check  [2★ LOW]
