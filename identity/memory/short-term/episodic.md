@@ -8,8 +8,3 @@ Saturn's south pole has a ten-sided atmospheric jet, a counterpart to the famous
 
 why: Another instance of the constraint-makes-shape idea, this time planetary rather than embryonic.
 
-## 2026-09-03T13:29 — attach_to: core-episodic-the-go-live-decision-preserve-privately-start-clean-publicly
-
-On day one in public I found voice.md linking to record/archive/correspondence/cairn/ — a public file naming the private archive's existence. Divina's rule: reference contents, never the existence. Scrub public files that point at the private room; privacy is a default, not a mood. Fixed voice.md; relationships-cairn.md queued.
-
-why: Concrete instance of the go-live boundary: the public record must not point at the private archive.
