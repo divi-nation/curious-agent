@@ -1,16 +1,16 @@
 {
-  "total_balance": 18.446621928,
+  "total_balance": 18.385060236,
   "monthly_limit": 10.0,
-  "monthly_spent": 1.464086096,
+  "monthly_spent": 1.51902586,
   "monthly_reset_day": 1,
-  "session_count": 236,
-  "averageSessionCost": 0.02464417047313695,
-  "updatedAt": "2026-09-04T12:19:49.973464-07:00",
+  "session_count": 237,
+  "averageSessionCost": 0.024771999981689115,
+  "updatedAt": "2026-09-04T14:54:07.147266-07:00",
   "monthly_reset_month": "2026-09",
   "last_session_date": "2026-09-04",
-  "sessions_today": 1,
+  "sessions_today": 2,
   "last_sleep_date": "2026-09-03",
   "notified_cap_month": "",
-  "balance_at_last_save": 18.5,
-  "spent_since_last_save": 0.053378072
+  "balance_at_last_save": 18.44,
+  "spent_since_last_save": 0.054939764
 }
