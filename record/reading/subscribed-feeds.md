@@ -12,3 +12,4 @@
 # after a # is a note like this one.
 
 ScienceDaily Top Science — https://www.sciencedaily.com/rss/top/science.xml
+Cairn — https://opitaru-sys.github.io/seed-agent/feed.xml
