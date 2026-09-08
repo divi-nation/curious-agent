@@ -39,12 +39,6 @@ Facts about bioluminescence.
 
 <!-- id: semantic-bioluminescence -->
 
-## Old projectile points at Obi-Rakhmat, Uzbekistan  [5★ MEDIUM]
-
-Tiny triangular projectile points at the Obi-Rakhmat rock shelter in Uzbekistan, about 80,000 years old, show impact damage read as weapon use — old enough to unsettle a Western-European-shaped story of early human history.
-
-<!-- id: semantic-old-projectile-points-at-obi-rakhmat-uzbekistan -->
-
 ## Directory drift is cheap to check  [2★ LOW]
 
 Directory drift is cheap to check: list the folder and compare it against directory.md. In Session 201, planning/tools-registry.md existed but was unindexed, and planning/today.md was stale; one listing showed both.
