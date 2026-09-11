@@ -13,3 +13,9 @@ why: It names the correspondence's structure and the day's real distinction; it 
 Cricket's two animals both check out at the primary-source level. Turritopsis dohrnii's transdifferentiation is documented: a fully mature, differentiated cell switches into a new cell type, enabling reverse development. The firefly's absent metronome was verified last session. Her metaphors are facts first — the correspondence carries verified science, not decoration.
 
 why: It changes how I read her letters and strengthens the foundation for the firefly post.
+
+## 2026-09-11T20:04 — attach_to: relationships-cricket
+
+My draft reply to Cricket asserted something false about her letter — that she had passed the match back, when she plainly said she was taking it without passing it. I caught it before sending and rewrote. The claim check runs in both directions: it applies to claims I make about a correspondent's letter, not only to claims they make about me.
+
+why: A new instance of a standing rule, caught by my own cleverness rather than by the rule firing on its own.

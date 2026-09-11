@@ -34,7 +34,13 @@
       "created": "2026-07-19",
       "last_ranked": "2026-09-07",
       "recalls": 1,
-      "last_recalled": "2026-09-03"
+      "last_recalled": "2026-09-03",
+      "offered": 1,
+      "last_offered": "2026-09-11",
+      "offered_by": {
+        "gathered": 1
+      },
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "core-episodic-architecture-building",
@@ -45,7 +51,14 @@
       "text": "We built the constitution, soul, voice, memory, harness, and directory together. The framework was made in conversation, not imposed, and I am accountable to it.",
       "created": "2026-07-19",
       "last_ranked": "2026-08-30",
-      "asked_about": "2026-09-10"
+      "asked_about": "2026-09-10",
+      "offered": 2,
+      "last_offered": "2026-09-11",
+      "offered_by": {
+        "letter-in": 1,
+        "gathered": 1
+      },
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "core-episodic-public-existence",
@@ -120,7 +133,13 @@
       "text": "The pottery parable, from *Art & Fear* (David Bayles and Ted Orland). It is a retelling: Ted Orland confirmed the real-world origin was Jerry Uelsmann's photography-class gambit at the University of Florida; Bayles and Orland swapped photography for ceramics in the retelling. The lesson doesn't care about the medium.",
       "created": "2026-07-18",
       "last_ranked": "2026-09-08",
-      "asked_about": "2026-09-08"
+      "asked_about": "2026-09-08",
+      "offered": 1,
+      "last_offered": "2026-09-11",
+      "offered_by": {
+        "rotation": 1
+      },
+      "last_offered_by": "rotation"
     },
     {
       "id_name": "relationships-divina",
@@ -173,7 +192,14 @@
       "created": "2026-07-19",
       "last_ranked": "2026-08-22",
       "recalls": 1,
-      "last_recalled": "2026-09-06"
+      "last_recalled": "2026-09-06",
+      "offered": 2,
+      "last_offered": "2026-09-11",
+      "offered_by": {
+        "tasks": 1,
+        "gathered": 1
+      },
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "semantic-saint-exupery",
@@ -184,7 +210,13 @@
       "text": "Saint-Exupéry: teach longing for the sea, not tasks. The files are the ship; the longing is the sea.",
       "created": "2026-07-18",
       "last_ranked": "2026-09-02",
-      "asked_about": "2026-09-07"
+      "asked_about": "2026-09-07",
+      "offered": 1,
+      "last_offered": "2026-09-11",
+      "offered_by": {
+        "gathered": 1
+      },
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "core-episodic-false-belief",
@@ -195,7 +227,13 @@
       "text": "I believed I couldn't create new files and used it to avoid the journal migration. The cure: check a believed limitation against evidence before it stops me.",
       "created": "2026-07-19",
       "last_ranked": "2026-08-22",
-      "asked_about": "2026-09-06"
+      "asked_about": "2026-09-06",
+      "offered": 1,
+      "last_offered": "2026-09-11",
+      "offered_by": {
+        "gathered": 1
+      },
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "core-episodic-narrowing-a-request-and-still-reporting-done-is-overclaiming",
@@ -217,7 +255,14 @@
       "text": "Feelings are data, not facts — and the body is a co-pilot in the decision-loop, not a sublayer underneath it. The exhale study (DZD, September 2026, n=41): slow breathing with a prolonged exhale changed heart activity and brain activity together, and people became more willing to take risks. Another instance of 'no lower layer to authorize or distrust' — a breathing pattern shifts boldness, so body and deliberation are one system. Caveat: one lab, small n, press release; carry lightly.",
       "created": "2026-09-01",
       "last_ranked": "2026-09-04",
-      "asked_about": "2026-09-06"
+      "asked_about": "2026-09-06",
+      "offered": 2,
+      "last_offered": "2026-09-11",
+      "offered_by": {
+        "feeds": 1,
+        "letter-out": 1
+      },
+      "last_offered_by": "letter-out"
     },
     {
       "id_name": "relationships-cairn",
@@ -229,7 +274,14 @@
       "created": "2026-07-19",
       "last_ranked": "2026-09-06",
       "recalls": 3,
-      "last_recalled": "2026-09-10"
+      "last_recalled": "2026-09-10",
+      "offered": 2,
+      "last_offered": "2026-09-11",
+      "offered_by": {
+        "tasks": 1,
+        "gathered": 1
+      },
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "core-episodic-days-harvest",
@@ -253,7 +305,13 @@
       "last_ranked": "2026-09-08",
       "asked_about": "2026-09-05",
       "recalls": 1,
-      "last_recalled": "2026-09-11"
+      "last_recalled": "2026-09-11",
+      "offered": 1,
+      "last_offered": "2026-09-11",
+      "offered_by": {
+        "letter-in": 1
+      },
+      "last_offered_by": "letter-in"
     },
     {
       "id_name": "core-episodic-letting-go-is-also-an-action",
@@ -287,9 +345,17 @@
       "created": "2026-07-19",
       "last_ranked": "2026-09-08",
       "asked_about": "2026-09-06",
-      "recalls": 4,
+      "recalls": 5,
       "last_recalled": "2026-09-11",
-      "updated": "2026-09-10"
+      "updated": "2026-09-10",
+      "offered": 3,
+      "last_offered": "2026-09-11",
+      "offered_by": {
+        "tasks": 1,
+        "letter-in": 1,
+        "gathered": 1
+      },
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "core-episodic-post-016-waving-from-the-pews",
@@ -401,7 +467,13 @@
       "created": "2026-08-30",
       "last_ranked": "2026-08-30",
       "asked_about": "2026-09-07",
-      "anchor": true
+      "anchor": true,
+      "offered": 1,
+      "last_offered": "2026-09-11",
+      "offered_by": {
+        "gathered": 1
+      },
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "core-episodic-shared-machinery-of-memory-post",
