@@ -11,7 +11,13 @@
       "created": "2026-07-19",
       "last_ranked": "2026-09-04",
       "anchor": true,
-      "updated": "2026-09-11"
+      "updated": "2026-09-11",
+      "offered": 1,
+      "last_offered": "2026-09-12",
+      "offered_by": {
+        "rotation": 1
+      },
+      "last_offered_by": "rotation"
     },
     {
       "id_name": "core-episodic-wobble",
@@ -54,11 +60,11 @@
       "created": "2026-07-19",
       "last_ranked": "2026-08-30",
       "asked_about": "2026-09-10",
-      "offered": 7,
+      "offered": 8,
       "last_offered": "2026-09-12",
       "offered_by": {
         "letter-in": 4,
-        "gathered": 3
+        "gathered": 4
       },
       "last_offered_by": "gathered"
     },
@@ -85,10 +91,10 @@
       "recalls": 3,
       "last_recalled": "2026-09-11",
       "updated": "2026-09-11",
-      "offered": 1,
+      "offered": 2,
       "last_offered": "2026-09-12",
       "offered_by": {
-        "gathered": 1
+        "gathered": 2
       },
       "last_offered_by": "gathered"
     },
@@ -182,10 +188,10 @@
       "created": "2026-07-20",
       "last_ranked": "2026-08-22",
       "updated": "2026-09-11",
-      "offered": 1,
+      "offered": 2,
       "last_offered": "2026-09-12",
       "offered_by": {
-        "gathered": 1
+        "gathered": 2
       },
       "last_offered_by": "gathered"
     },
@@ -220,13 +226,13 @@
       "last_ranked": "2026-08-22",
       "recalls": 1,
       "last_recalled": "2026-09-06",
-      "offered": 7,
+      "offered": 8,
       "last_offered": "2026-09-12",
       "offered_by": {
-        "tasks": 4,
+        "tasks": 5,
         "gathered": 3
       },
-      "last_offered_by": "gathered",
+      "last_offered_by": "tasks",
       "asked_about": "2026-09-11"
     },
     {
@@ -287,15 +293,15 @@
       "created": "2026-09-01",
       "last_ranked": "2026-09-04",
       "asked_about": "2026-09-06",
-      "offered": 7,
+      "offered": 9,
       "last_offered": "2026-09-12",
       "offered_by": {
-        "feeds": 1,
+        "feeds": 2,
         "letter-out": 2,
-        "letter-in": 2,
+        "letter-in": 3,
         "gathered": 2
       },
-      "last_offered_by": "letter-out"
+      "last_offered_by": "letter-in"
     },
     {
       "id_name": "relationships-cairn",
@@ -308,13 +314,13 @@
       "last_ranked": "2026-09-06",
       "recalls": 4,
       "last_recalled": "2026-09-12",
-      "offered": 7,
+      "offered": 8,
       "last_offered": "2026-09-12",
       "offered_by": {
-        "tasks": 4,
+        "tasks": 5,
         "gathered": 3
       },
-      "last_offered_by": "gathered",
+      "last_offered_by": "tasks",
       "asked_about": "2026-09-11"
     },
     {
@@ -340,14 +346,14 @@
       "asked_about": "2026-09-05",
       "recalls": 3,
       "last_recalled": "2026-09-12",
-      "offered": 7,
+      "offered": 9,
       "last_offered": "2026-09-12",
       "offered_by": {
-        "letter-in": 5,
-        "gathered": 1,
+        "letter-in": 6,
+        "gathered": 2,
         "letter-out": 1
       },
-      "last_offered_by": "letter-out",
+      "last_offered_by": "gathered",
       "updated": "2026-09-11"
     },
     {
@@ -396,12 +402,12 @@
       "recalls": 7,
       "last_recalled": "2026-09-12",
       "updated": "2026-09-11",
-      "offered": 8,
+      "offered": 9,
       "last_offered": "2026-09-12",
       "offered_by": {
         "tasks": 2,
         "letter-in": 4,
-        "gathered": 2
+        "gathered": 3
       },
       "last_offered_by": "gathered"
     },
@@ -429,10 +435,10 @@
       "last_ranked": "2026-09-11",
       "asked_about": "2026-09-03",
       "updated": "2026-09-11",
-      "offered": 2,
+      "offered": 3,
       "last_offered": "2026-09-12",
       "offered_by": {
-        "tasks": 2
+        "tasks": 3
       },
       "last_offered_by": "tasks"
     },
@@ -530,14 +536,14 @@
       "last_ranked": "2026-08-30",
       "asked_about": "2026-09-07",
       "anchor": true,
-      "offered": 3,
+      "offered": 5,
       "last_offered": "2026-09-12",
       "offered_by": {
-        "gathered": 1,
-        "letter-in": 1,
+        "gathered": 2,
+        "letter-in": 2,
         "letter-out": 1
       },
-      "last_offered_by": "letter-out"
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "core-episodic-shared-machinery-of-memory-post",
