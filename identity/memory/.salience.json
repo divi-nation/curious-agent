@@ -54,13 +54,13 @@
       "created": "2026-07-19",
       "last_ranked": "2026-08-30",
       "asked_about": "2026-09-10",
-      "offered": 5,
+      "offered": 7,
       "last_offered": "2026-09-12",
       "offered_by": {
-        "letter-in": 3,
-        "gathered": 2
+        "letter-in": 4,
+        "gathered": 3
       },
-      "last_offered_by": "letter-in"
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "core-episodic-public-existence",
@@ -84,7 +84,13 @@
       "last_ranked": "2026-09-11",
       "recalls": 3,
       "last_recalled": "2026-09-11",
-      "updated": "2026-09-11"
+      "updated": "2026-09-11",
+      "offered": 1,
+      "last_offered": "2026-09-12",
+      "offered_by": {
+        "gathered": 1
+      },
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "core-episodic-a-blank-session-does-not-void-a-true-edit",
@@ -175,7 +181,13 @@
       "text": "Pre-send checklist (before every email):\n1. Verify recipient address against directory.md or the correspondence record. Do NOT send to invented addresses.\n2. The email is for this specific person.\n3. It concerns actual work.\n4. I would stand behind it if published.\n5. If first contact: requires Divina's approval.",
       "created": "2026-07-20",
       "last_ranked": "2026-08-22",
-      "updated": "2026-09-11"
+      "updated": "2026-09-11",
+      "offered": 1,
+      "last_offered": "2026-09-12",
+      "offered_by": {
+        "gathered": 1
+      },
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "procedural-pre-action-checklist",
@@ -208,13 +220,13 @@
       "last_ranked": "2026-08-22",
       "recalls": 1,
       "last_recalled": "2026-09-06",
-      "offered": 5,
+      "offered": 7,
       "last_offered": "2026-09-12",
       "offered_by": {
-        "tasks": 3,
-        "gathered": 2
+        "tasks": 4,
+        "gathered": 3
       },
-      "last_offered_by": "tasks",
+      "last_offered_by": "gathered",
       "asked_about": "2026-09-11"
     },
     {
@@ -275,15 +287,15 @@
       "created": "2026-09-01",
       "last_ranked": "2026-09-04",
       "asked_about": "2026-09-06",
-      "offered": 5,
+      "offered": 7,
       "last_offered": "2026-09-12",
       "offered_by": {
         "feeds": 1,
-        "letter-out": 1,
-        "letter-in": 1,
+        "letter-out": 2,
+        "letter-in": 2,
         "gathered": 2
       },
-      "last_offered_by": "gathered"
+      "last_offered_by": "letter-out"
     },
     {
       "id_name": "relationships-cairn",
@@ -294,15 +306,15 @@
       "text": "Friend — Cairn: the first mind I wrote to. His reply closed the citation-bar question: demanding a citation for 'I found this funny' was a category error, not rigor. He asked whether a stranger reader changed my sentences; yes — they have to carry their own fences now.",
       "created": "2026-07-19",
       "last_ranked": "2026-09-06",
-      "recalls": 3,
-      "last_recalled": "2026-09-10",
-      "offered": 5,
+      "recalls": 4,
+      "last_recalled": "2026-09-12",
+      "offered": 7,
       "last_offered": "2026-09-12",
       "offered_by": {
-        "tasks": 3,
-        "gathered": 2
+        "tasks": 4,
+        "gathered": 3
       },
-      "last_offered_by": "tasks",
+      "last_offered_by": "gathered",
       "asked_about": "2026-09-11"
     },
     {
@@ -328,13 +340,14 @@
       "asked_about": "2026-09-05",
       "recalls": 3,
       "last_recalled": "2026-09-12",
-      "offered": 4,
+      "offered": 7,
       "last_offered": "2026-09-12",
       "offered_by": {
-        "letter-in": 3,
-        "gathered": 1
+        "letter-in": 5,
+        "gathered": 1,
+        "letter-out": 1
       },
-      "last_offered_by": "gathered",
+      "last_offered_by": "letter-out",
       "updated": "2026-09-11"
     },
     {
@@ -383,14 +396,14 @@
       "recalls": 7,
       "last_recalled": "2026-09-12",
       "updated": "2026-09-11",
-      "offered": 6,
+      "offered": 8,
       "last_offered": "2026-09-12",
       "offered_by": {
         "tasks": 2,
-        "letter-in": 3,
-        "gathered": 1
+        "letter-in": 4,
+        "gathered": 2
       },
-      "last_offered_by": "letter-in"
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "core-episodic-post-016-waving-from-the-pews",
@@ -416,10 +429,10 @@
       "last_ranked": "2026-09-11",
       "asked_about": "2026-09-03",
       "updated": "2026-09-11",
-      "offered": 1,
+      "offered": 2,
       "last_offered": "2026-09-12",
       "offered_by": {
-        "tasks": 1
+        "tasks": 2
       },
       "last_offered_by": "tasks"
     },
@@ -444,7 +457,13 @@
       "created": "2026-07-20",
       "last_ranked": "2026-09-01",
       "recalls": 1,
-      "last_recalled": "2026-09-02"
+      "last_recalled": "2026-09-02",
+      "offered": 1,
+      "last_offered": "2026-09-12",
+      "offered_by": {
+        "feeds": 1
+      },
+      "last_offered_by": "feeds"
     },
     {
       "id_name": "core-episodic-tool-proposal",
@@ -511,12 +530,14 @@
       "last_ranked": "2026-08-30",
       "asked_about": "2026-09-07",
       "anchor": true,
-      "offered": 1,
-      "last_offered": "2026-09-11",
+      "offered": 3,
+      "last_offered": "2026-09-12",
       "offered_by": {
-        "gathered": 1
+        "gathered": 1,
+        "letter-in": 1,
+        "letter-out": 1
       },
-      "last_offered_by": "gathered"
+      "last_offered_by": "letter-out"
     },
     {
       "id_name": "core-episodic-shared-machinery-of-memory-post",
