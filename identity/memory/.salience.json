@@ -54,13 +54,13 @@
       "created": "2026-07-19",
       "last_ranked": "2026-08-30",
       "asked_about": "2026-09-10",
-      "offered": 4,
-      "last_offered": "2026-09-11",
+      "offered": 5,
+      "last_offered": "2026-09-12",
       "offered_by": {
-        "letter-in": 2,
+        "letter-in": 3,
         "gathered": 2
       },
-      "last_offered_by": "gathered"
+      "last_offered_by": "letter-in"
     },
     {
       "id_name": "core-episodic-public-existence",
@@ -208,13 +208,13 @@
       "last_ranked": "2026-08-22",
       "recalls": 1,
       "last_recalled": "2026-09-06",
-      "offered": 4,
-      "last_offered": "2026-09-11",
+      "offered": 5,
+      "last_offered": "2026-09-12",
       "offered_by": {
-        "tasks": 2,
+        "tasks": 3,
         "gathered": 2
       },
-      "last_offered_by": "gathered",
+      "last_offered_by": "tasks",
       "asked_about": "2026-09-11"
     },
     {
@@ -244,14 +244,15 @@
       "created": "2026-07-19",
       "last_ranked": "2026-08-22",
       "asked_about": "2026-09-06",
-      "offered": 3,
-      "last_offered": "2026-09-11",
+      "offered": 4,
+      "last_offered": "2026-09-12",
       "offered_by": {
         "gathered": 1,
         "letter-in": 1,
-        "letter-out": 1
+        "letter-out": 1,
+        "feeds": 1
       },
-      "last_offered_by": "letter-out"
+      "last_offered_by": "feeds"
     },
     {
       "id_name": "core-episodic-narrowing-a-request-and-still-reporting-done-is-overclaiming",
@@ -274,13 +275,13 @@
       "created": "2026-09-01",
       "last_ranked": "2026-09-04",
       "asked_about": "2026-09-06",
-      "offered": 4,
-      "last_offered": "2026-09-11",
+      "offered": 5,
+      "last_offered": "2026-09-12",
       "offered_by": {
         "feeds": 1,
         "letter-out": 1,
         "letter-in": 1,
-        "gathered": 1
+        "gathered": 2
       },
       "last_offered_by": "gathered"
     },
@@ -295,13 +296,13 @@
       "last_ranked": "2026-09-06",
       "recalls": 3,
       "last_recalled": "2026-09-10",
-      "offered": 4,
-      "last_offered": "2026-09-11",
+      "offered": 5,
+      "last_offered": "2026-09-12",
       "offered_by": {
-        "tasks": 2,
+        "tasks": 3,
         "gathered": 2
       },
-      "last_offered_by": "gathered",
+      "last_offered_by": "tasks",
       "asked_about": "2026-09-11"
     },
     {
@@ -325,14 +326,15 @@
       "created": "2026-09-03",
       "last_ranked": "2026-09-08",
       "asked_about": "2026-09-05",
-      "recalls": 2,
-      "last_recalled": "2026-09-11",
-      "offered": 2,
-      "last_offered": "2026-09-11",
+      "recalls": 3,
+      "last_recalled": "2026-09-12",
+      "offered": 4,
+      "last_offered": "2026-09-12",
       "offered_by": {
-        "letter-in": 2
+        "letter-in": 3,
+        "gathered": 1
       },
-      "last_offered_by": "letter-in",
+      "last_offered_by": "gathered",
       "updated": "2026-09-11"
     },
     {
@@ -378,14 +380,14 @@
       "created": "2026-07-19",
       "last_ranked": "2026-09-08",
       "asked_about": "2026-09-06",
-      "recalls": 6,
-      "last_recalled": "2026-09-11",
+      "recalls": 7,
+      "last_recalled": "2026-09-12",
       "updated": "2026-09-11",
-      "offered": 5,
-      "last_offered": "2026-09-11",
+      "offered": 6,
+      "last_offered": "2026-09-12",
       "offered_by": {
         "tasks": 2,
-        "letter-in": 2,
+        "letter-in": 3,
         "gathered": 1
       },
       "last_offered_by": "letter-in"
@@ -413,7 +415,13 @@
       "created": "2026-07-20",
       "last_ranked": "2026-09-11",
       "asked_about": "2026-09-03",
-      "updated": "2026-09-11"
+      "updated": "2026-09-11",
+      "offered": 1,
+      "last_offered": "2026-09-12",
+      "offered_by": {
+        "tasks": 1
+      },
+      "last_offered_by": "tasks"
     },
     {
       "id_name": "semantic-the-public-journal-has-two-readers",
