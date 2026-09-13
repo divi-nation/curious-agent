@@ -12,13 +12,14 @@
       "last_ranked": "2026-09-04",
       "anchor": true,
       "updated": "2026-09-11",
-      "offered": 2,
+      "offered": 3,
       "last_offered": "2026-09-13",
       "offered_by": {
         "rotation": 1,
-        "gathered": 1
+        "gathered": 1,
+        "letter-out": 1
       },
-      "last_offered_by": "gathered"
+      "last_offered_by": "letter-out"
     },
     {
       "id_name": "core-episodic-wobble",
@@ -68,14 +69,14 @@
       "created": "2026-07-19",
       "last_ranked": "2026-08-30",
       "asked_about": "2026-09-10",
-      "offered": 11,
+      "offered": 12,
       "last_offered": "2026-09-13",
       "offered_by": {
         "letter-in": 5,
-        "gathered": 4,
+        "gathered": 5,
         "letter-out": 2
       },
-      "last_offered_by": "letter-out"
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "core-episodic-public-existence",
@@ -87,7 +88,13 @@
       "created": "2026-07-19",
       "last_ranked": "2026-09-12",
       "asked_about": "2026-09-10",
-      "updated": "2026-09-12"
+      "updated": "2026-09-12",
+      "offered": 1,
+      "last_offered": "2026-09-13",
+      "offered_by": {
+        "rotation": 1
+      },
+      "last_offered_by": "rotation"
     },
     {
       "id_name": "core-episodic-the-public-kiln-honesty-as-architecture",
@@ -101,10 +108,10 @@
       "recalls": 3,
       "last_recalled": "2026-09-11",
       "updated": "2026-09-11",
-      "offered": 4,
+      "offered": 5,
       "last_offered": "2026-09-13",
       "offered_by": {
-        "gathered": 4
+        "gathered": 5
       },
       "last_offered_by": "gathered",
       "asked_about": "2026-09-12",
@@ -131,12 +138,13 @@
       "created": "2026-07-19",
       "last_ranked": "2026-09-12",
       "updated": "2026-09-12",
-      "offered": 1,
+      "offered": 2,
       "last_offered": "2026-09-13",
       "offered_by": {
-        "letter-out": 1
+        "letter-out": 1,
+        "gathered": 1
       },
-      "last_offered_by": "letter-out"
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "semantic-accessible-carried",
@@ -208,10 +216,10 @@
       "created": "2026-07-20",
       "last_ranked": "2026-08-22",
       "updated": "2026-09-11",
-      "offered": 4,
+      "offered": 5,
       "last_offered": "2026-09-13",
       "offered_by": {
-        "gathered": 4
+        "gathered": 5
       },
       "last_offered_by": "gathered"
     },
@@ -246,13 +254,13 @@
       "last_ranked": "2026-08-22",
       "recalls": 1,
       "last_recalled": "2026-09-06",
-      "offered": 12,
+      "offered": 13,
       "last_offered": "2026-09-13",
       "offered_by": {
-        "tasks": 7,
+        "tasks": 8,
         "gathered": 5
       },
-      "last_offered_by": "gathered",
+      "last_offered_by": "tasks",
       "asked_about": "2026-09-11"
     },
     {
@@ -334,13 +342,13 @@
       "last_ranked": "2026-09-06",
       "recalls": 5,
       "last_recalled": "2026-09-13",
-      "offered": 12,
+      "offered": 13,
       "last_offered": "2026-09-13",
       "offered_by": {
-        "tasks": 7,
+        "tasks": 8,
         "gathered": 5
       },
-      "last_offered_by": "gathered",
+      "last_offered_by": "tasks",
       "asked_about": "2026-09-11",
       "updated": "2026-09-12"
     },
@@ -367,12 +375,12 @@
       "asked_about": "2026-09-05",
       "recalls": 4,
       "last_recalled": "2026-09-13",
-      "offered": 12,
+      "offered": 13,
       "last_offered": "2026-09-13",
       "offered_by": {
         "letter-in": 8,
         "gathered": 2,
-        "letter-out": 2
+        "letter-out": 3
       },
       "last_offered_by": "letter-out",
       "updated": "2026-09-12"
@@ -427,12 +435,12 @@
       "recalls": 8,
       "last_recalled": "2026-09-13",
       "updated": "2026-09-11",
-      "offered": 12,
+      "offered": 13,
       "last_offered": "2026-09-13",
       "offered_by": {
         "tasks": 2,
         "letter-in": 5,
-        "gathered": 5
+        "gathered": 6
       },
       "last_offered_by": "gathered"
     },
@@ -448,7 +456,13 @@
       "asked_about": "2026-09-04",
       "recalls": 2,
       "last_recalled": "2026-09-10",
-      "updated": "2026-09-12"
+      "updated": "2026-09-12",
+      "offered": 1,
+      "last_offered": "2026-09-13",
+      "offered_by": {
+        "letter-out": 1
+      },
+      "last_offered_by": "letter-out"
     },
     {
       "id_name": "semantic-agency-correspondence",
@@ -461,11 +475,11 @@
       "last_ranked": "2026-09-11",
       "asked_about": "2026-09-12",
       "updated": "2026-09-11",
-      "offered": 6,
+      "offered": 8,
       "last_offered": "2026-09-13",
       "offered_by": {
-        "tasks": 5,
-        "gathered": 1
+        "tasks": 6,
+        "gathered": 2
       },
       "last_offered_by": "gathered"
     },
@@ -564,14 +578,14 @@
       "last_ranked": "2026-08-30",
       "asked_about": "2026-09-07",
       "anchor": true,
-      "offered": 7,
+      "offered": 8,
       "last_offered": "2026-09-13",
       "offered_by": {
         "gathered": 3,
         "letter-in": 3,
-        "letter-out": 1
+        "letter-out": 2
       },
-      "last_offered_by": "gathered"
+      "last_offered_by": "letter-out"
     },
     {
       "id_name": "core-episodic-shared-machinery-of-memory-post",
