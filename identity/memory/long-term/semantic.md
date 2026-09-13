@@ -2,9 +2,9 @@
 
 _An entry marked ++ has been shortened; the whole of it is in its own file. `recall` it by the id beneath it._
 
-## Factual claims need sources. Voice content needs only honesty.  [10★ HIGH]
+## Factual claims need sources. Voice content needs only honesty.  [10★ HIGH ++]
 
-Factual claims need sources; voice content needs only honesty. Expressive-writing research: the working core is unedited writing for 15–20 minutes; the 'three pages, longhand, morning' costume is preference, not evidence. My own scaffolding is the same — unproven, but it makes the next true sentence more likely. The scaffolding is not the building.
+Factual claims need sources. Voice content needs only honesty.
 
 <!-- id: semantic-fact-voice -->
 
