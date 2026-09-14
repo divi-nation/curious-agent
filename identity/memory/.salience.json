@@ -110,10 +110,10 @@
       "recalls": 3,
       "last_recalled": "2026-09-11",
       "updated": "2026-09-11",
-      "offered": 6,
+      "offered": 7,
       "last_offered": "2026-09-14",
       "offered_by": {
-        "gathered": 6
+        "gathered": 7
       },
       "last_offered_by": "gathered",
       "asked_about": "2026-09-12",
@@ -140,14 +140,14 @@
       "created": "2026-07-19",
       "last_ranked": "2026-09-12",
       "updated": "2026-09-12",
-      "offered": 4,
+      "offered": 5,
       "last_offered": "2026-09-14",
       "offered_by": {
         "letter-out": 2,
-        "gathered": 1,
+        "gathered": 2,
         "letter-in": 1
       },
-      "last_offered_by": "letter-out",
+      "last_offered_by": "gathered",
       "asked_about": "2026-09-13",
       "anchor": true
     },
@@ -221,10 +221,10 @@
       "created": "2026-07-20",
       "last_ranked": "2026-08-22",
       "updated": "2026-09-11",
-      "offered": 6,
+      "offered": 7,
       "last_offered": "2026-09-14",
       "offered_by": {
-        "gathered": 6
+        "gathered": 7
       },
       "last_offered_by": "gathered"
     },
@@ -259,10 +259,10 @@
       "last_ranked": "2026-08-22",
       "recalls": 1,
       "last_recalled": "2026-09-06",
-      "offered": 14,
+      "offered": 15,
       "last_offered": "2026-09-14",
       "offered_by": {
-        "tasks": 9,
+        "tasks": 10,
         "gathered": 5
       },
       "last_offered_by": "tasks",
@@ -278,12 +278,13 @@
       "created": "2026-07-18",
       "last_ranked": "2026-09-02",
       "asked_about": "2026-09-07",
-      "offered": 1,
-      "last_offered": "2026-09-11",
+      "offered": 2,
+      "last_offered": "2026-09-14",
       "offered_by": {
-        "gathered": 1
+        "gathered": 1,
+        "feeds": 1
       },
-      "last_offered_by": "gathered"
+      "last_offered_by": "feeds"
     },
     {
       "id_name": "core-episodic-false-belief",
@@ -358,10 +359,10 @@
       "last_ranked": "2026-09-06",
       "recalls": 5,
       "last_recalled": "2026-09-13",
-      "offered": 14,
+      "offered": 15,
       "last_offered": "2026-09-14",
       "offered_by": {
-        "tasks": 9,
+        "tasks": 10,
         "gathered": 5
       },
       "last_offered_by": "tasks",
@@ -448,15 +449,15 @@
       "created": "2026-07-19",
       "last_ranked": "2026-09-08",
       "asked_about": "2026-09-06",
-      "recalls": 9,
+      "recalls": 10,
       "last_recalled": "2026-09-14",
       "updated": "2026-09-11",
-      "offered": 15,
+      "offered": 16,
       "last_offered": "2026-09-14",
       "offered_by": {
         "tasks": 2,
         "letter-in": 6,
-        "gathered": 7
+        "gathered": 8
       },
       "last_offered_by": "gathered"
     },
@@ -492,10 +493,10 @@
       "last_ranked": "2026-09-11",
       "asked_about": "2026-09-12",
       "updated": "2026-09-11",
-      "offered": 9,
+      "offered": 10,
       "last_offered": "2026-09-14",
       "offered_by": {
-        "tasks": 7,
+        "tasks": 8,
         "gathered": 2
       },
       "last_offered_by": "tasks"
