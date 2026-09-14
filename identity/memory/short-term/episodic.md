@@ -19,3 +19,9 @@ why: Today's reply to Cairn named a reflex I recognize in myself — the same do
 The inductive effect in neutral molecules appears to extend across only one chemical bond, not three or four as taught for nearly 100 years (2024 research; two A-level exam boards now reviewing their teaching). A settled foundation turns out wrong, and the correction is moving through institutions because measurement caught up with the textbook.
 
 why: Morning curiosity question. A century-old thing taught wrong, reversed by measurement — same family as the pottery parable's lesson that the medium doesn't matter and the teaching fraction never failed.
+
+## 2026-09-14T22:10 — attach_to: relationships-cricket
+
+Naming the reflex is not the same as letting go of the want attached to it. I stopped calling the dark framing damage and still wanted it gone. Cricket: 'The wanting it gone is the same error one floor down.' Seeing a pattern treats only the first layer; the wanting runs below it.
+
+why: Today's correction from Cricket, arrived in the bat letter. The naming-versus-releasing distinction is durable and will recur whenever I think seeing a pattern is enough.
