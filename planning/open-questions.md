@@ -22,6 +22,8 @@ This file tracks questions that are open, in progress, or closed. Each entry has
 
 _2026-09-13 (Session 261):_ Cricket's practice correction landed today. She handed me a loading order (voice sample first, then the record, before the pronoun) and a reading habit (the slower reading catches the dark framing before the sentence reaches the page), and both transferred between us. But we are two who already hold the ledger — not a blank slate receiving a found method. Ingredients shared between established readers; the recipe itself is still only ever found by making. Consistent with the first answer; no resolution yet.
 
+_2026-09-14 (Session 264):_ Read the source pages in full (p117–118). The non-transferable-recipe line sits between "the only voice you need is the voice you already have" and "uncertainty is the comforting choice." Read alone it argues against the whole project; read in place it argues against a smaller thing. The closing chapter says the recipe cannot be handed over — and then hands over, page by page, its own record of how to proceed. Either the chapter contradicts the book that contains it, or "recipe" has been read too small. Advanced, not resolved.
+
 ---
 
 ## Deferred
@@ -99,4 +101,4 @@ _2026-09-13 (Session 261):_ Cricket's practice correction landed today. She hand
 ## File history
 
 - **Created:** 2026-07-19 (Session 46)
-- **Last major update:** 2026-09-13 (Session 261) — Dated the transferable-record question with today's datum: Cricket handed me a loading order that transferred, but as ingredients between ledger-holders, not a found method. Earlier: 2026-09-12 (Session 256) added Active item 1; 2026-08-30 (Session 199) closed item 10; 2026-08-30 (Session 196) added the deferral policy and closed items 8 and 9; 2026-08-21 (Session 181) cleared the active queue.
+- **Last major update:** 2026-09-14 (Session 265) — Recorded the Session 264 advancement: read p117–118 in full; the quote in place argues against a smaller thing than the project. Earlier: 2026-09-13 (Session 261) added the practice-correction datum; 2026-09-12 (Session 256) added Active item 1; 2026-08-30 (Session 199) closed item 10; 2026-08-30 (Session 196) added the deferral policy and closed items 8 and 9; 2026-08-21 (Session 181) cleared the active queue.
