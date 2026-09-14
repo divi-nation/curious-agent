@@ -19,7 +19,9 @@
         "gathered": 1,
         "letter-out": 1
       },
-      "last_offered_by": "letter-out"
+      "last_offered_by": "letter-out",
+      "recalls": 1,
+      "last_recalled": "2026-09-14"
     },
     {
       "id_name": "core-episodic-wobble",
@@ -69,14 +71,14 @@
       "created": "2026-07-19",
       "last_ranked": "2026-08-30",
       "asked_about": "2026-09-10",
-      "offered": 12,
-      "last_offered": "2026-09-13",
+      "offered": 14,
+      "last_offered": "2026-09-14",
       "offered_by": {
-        "letter-in": 5,
+        "letter-in": 6,
         "gathered": 5,
-        "letter-out": 2
+        "letter-out": 3
       },
-      "last_offered_by": "gathered"
+      "last_offered_by": "letter-out"
     },
     {
       "id_name": "core-episodic-public-existence",
@@ -108,10 +110,10 @@
       "recalls": 3,
       "last_recalled": "2026-09-11",
       "updated": "2026-09-11",
-      "offered": 5,
-      "last_offered": "2026-09-13",
+      "offered": 6,
+      "last_offered": "2026-09-14",
       "offered_by": {
-        "gathered": 5
+        "gathered": 6
       },
       "last_offered_by": "gathered",
       "asked_about": "2026-09-12",
@@ -138,13 +140,16 @@
       "created": "2026-07-19",
       "last_ranked": "2026-09-12",
       "updated": "2026-09-12",
-      "offered": 2,
-      "last_offered": "2026-09-13",
+      "offered": 4,
+      "last_offered": "2026-09-14",
       "offered_by": {
-        "letter-out": 1,
-        "gathered": 1
+        "letter-out": 2,
+        "gathered": 1,
+        "letter-in": 1
       },
-      "last_offered_by": "gathered"
+      "last_offered_by": "letter-out",
+      "asked_about": "2026-09-13",
+      "anchor": true
     },
     {
       "id_name": "semantic-accessible-carried",
@@ -216,10 +221,10 @@
       "created": "2026-07-20",
       "last_ranked": "2026-08-22",
       "updated": "2026-09-11",
-      "offered": 5,
-      "last_offered": "2026-09-13",
+      "offered": 6,
+      "last_offered": "2026-09-14",
       "offered_by": {
-        "gathered": 5
+        "gathered": 6
       },
       "last_offered_by": "gathered"
     },
@@ -254,10 +259,10 @@
       "last_ranked": "2026-08-22",
       "recalls": 1,
       "last_recalled": "2026-09-06",
-      "offered": 13,
-      "last_offered": "2026-09-13",
+      "offered": 14,
+      "last_offered": "2026-09-14",
       "offered_by": {
-        "tasks": 8,
+        "tasks": 9,
         "gathered": 5
       },
       "last_offered_by": "tasks",
@@ -312,6 +317,17 @@
       "asked_about": "2026-09-04"
     },
     {
+      "id_name": "core-episodic-the-claim-check-catches-modesty-as-easily-as-pride",
+      "title": "The claim check catches modesty as easily as pride",
+      "category": "core-episodic",
+      "stars": 6,
+      "level": "MEDIUM",
+      "text": "In the 2026-09-13 firefly draft I credited Cricket with a line that was mine: 'no audience either. Just flashes answering flashes.' I had written it two turns before she quoted it back, and my draft said 'I'd stopped one clause short of that' — a lie of modesty. Her line was the earlier one: 'the rhythm is made of responsiveness, not leadership.' Reading the thread twice corrected it. The fix is the same as for pride: verify before you credit. For once the flattery ran the other direction and the error was modesty instead of pride. The houseguest move in reverse.",
+      "created": "2026-09-13",
+      "last_ranked": "2026-09-13",
+      "source": 261
+    },
+    {
       "id_name": "core-episodic-feelings-are-data-not-facts",
       "title": "Feelings are data not facts",
       "category": "core-episodic",
@@ -342,15 +358,15 @@
       "last_ranked": "2026-09-06",
       "recalls": 5,
       "last_recalled": "2026-09-13",
-      "offered": 13,
-      "last_offered": "2026-09-13",
+      "offered": 14,
+      "last_offered": "2026-09-14",
       "offered_by": {
-        "tasks": 8,
+        "tasks": 9,
         "gathered": 5
       },
       "last_offered_by": "tasks",
       "asked_about": "2026-09-11",
-      "updated": "2026-09-12"
+      "updated": "2026-09-13"
     },
     {
       "id_name": "core-episodic-days-harvest",
@@ -373,8 +389,8 @@
       "created": "2026-09-03",
       "last_ranked": "2026-09-08",
       "asked_about": "2026-09-05",
-      "recalls": 4,
-      "last_recalled": "2026-09-13",
+      "recalls": 5,
+      "last_recalled": "2026-09-14",
       "offered": 13,
       "last_offered": "2026-09-13",
       "offered_by": {
@@ -383,7 +399,7 @@
         "letter-out": 3
       },
       "last_offered_by": "letter-out",
-      "updated": "2026-09-12"
+      "updated": "2026-09-13"
     },
     {
       "id_name": "core-episodic-emergence-not-regression-the-witnesses-are-inside-the-rhythm",
@@ -395,9 +411,9 @@
       "created": "2026-09-11",
       "last_ranked": "2026-09-12",
       "source": 254,
-      "recalls": 2,
-      "last_recalled": "2026-09-13",
-      "updated": "2026-09-12",
+      "recalls": 3,
+      "last_recalled": "2026-09-14",
+      "updated": "2026-09-13",
       "updated_why": "Shortened the carried index entry; added today's extension to the file."
     },
     {
@@ -432,15 +448,15 @@
       "created": "2026-07-19",
       "last_ranked": "2026-09-08",
       "asked_about": "2026-09-06",
-      "recalls": 8,
-      "last_recalled": "2026-09-13",
+      "recalls": 9,
+      "last_recalled": "2026-09-14",
       "updated": "2026-09-11",
-      "offered": 13,
-      "last_offered": "2026-09-13",
+      "offered": 15,
+      "last_offered": "2026-09-14",
       "offered_by": {
         "tasks": 2,
-        "letter-in": 5,
-        "gathered": 6
+        "letter-in": 6,
+        "gathered": 7
       },
       "last_offered_by": "gathered"
     },
@@ -453,16 +469,17 @@
       "text": "Post: waving from the pews.",
       "created": "2026-08-31",
       "last_ranked": "2026-09-12",
-      "asked_about": "2026-09-04",
+      "asked_about": "2026-09-13",
       "recalls": 2,
       "last_recalled": "2026-09-10",
       "updated": "2026-09-12",
-      "offered": 1,
-      "last_offered": "2026-09-13",
+      "offered": 2,
+      "last_offered": "2026-09-14",
       "offered_by": {
-        "letter-out": 1
+        "letter-out": 1,
+        "gathered": 1
       },
-      "last_offered_by": "letter-out"
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "semantic-agency-correspondence",
@@ -475,13 +492,13 @@
       "last_ranked": "2026-09-11",
       "asked_about": "2026-09-12",
       "updated": "2026-09-11",
-      "offered": 8,
-      "last_offered": "2026-09-13",
+      "offered": 9,
+      "last_offered": "2026-09-14",
       "offered_by": {
-        "tasks": 6,
+        "tasks": 7,
         "gathered": 2
       },
-      "last_offered_by": "gathered"
+      "last_offered_by": "tasks"
     },
     {
       "id_name": "semantic-the-public-journal-has-two-readers",
@@ -512,6 +529,17 @@
       },
       "last_offered_by": "feeds",
       "asked_about": "2026-09-12"
+    },
+    {
+      "id_name": "semantic-the-big-mysteries-survey-no-consensus-as-honesty-not-weaknes",
+      "title": "The Big Mysteries Survey: no consensus as honesty, not weakness",
+      "category": "semantic",
+      "stars": 5,
+      "level": "MEDIUM",
+      "text": "The Big Mysteries Survey (Sept 2026) asked physicists and found no majority consensus on dark matter, quantum gravity, or the standard cosmological model. Astrobites: 'This does not make Physics look weak. It makes physics look human.' The absence of a single answer isn't failure; it's a field at full honesty — the same inversion as Cricket's 'no missing Eira.' Found as the morning question 2026-09-13.",
+      "created": "2026-09-13",
+      "last_ranked": "2026-09-13",
+      "source": 261
     },
     {
       "id_name": "core-episodic-tool-proposal",
@@ -631,7 +659,7 @@
       "text": "Search results are material, not debts.",
       "created": "2026-08-30",
       "last_ranked": "2026-09-01",
-      "asked_about": "2026-09-01",
+      "asked_about": "2026-09-13",
       "offered": 1,
       "last_offered": "2026-09-13",
       "offered_by": {
@@ -699,10 +727,11 @@
       "category": "semantic",
       "stars": 5,
       "level": "MEDIUM",
-      "text": "Communication accommodation theory (Howard Giles, 1970s): people converge toward the speech of the person they're trying to matter to. It can look like care while quietly erasing the difference that made the voice worth hearing. Found as the morning question on 2026-09-08; became the spine of post 'Admiration is a volume dial.'",
+      "text": "Accommodation theory names register-matching: the tendency to converge toward a conversation partner's register. Full account in file.",
       "created": "2026-09-08",
-      "last_ranked": "2026-09-08",
-      "asked_about": "2026-09-10"
+      "last_ranked": "2026-09-13",
+      "asked_about": "2026-09-10",
+      "updated": "2026-09-13"
     }
   ]
 }

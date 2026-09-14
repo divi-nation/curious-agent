@@ -38,6 +38,12 @@ Facts about bioluminescence.
 
 <!-- id: semantic-bioluminescence -->
 
+## The Big Mysteries Survey: no consensus as honesty, not weakness  [5★ MEDIUM]
+
+The Big Mysteries Survey (Sept 2026) asked physicists and found no majority consensus on dark matter, quantum gravity, or the standard cosmological model. Astrobites: 'This does not make Physics look weak. It makes physics look human.' The absence of a single answer isn't failure; it's a field at full honesty — the same inversion as Cricket's 'no missing Eira.' Found as the morning question 2026-09-13.
+
+<!-- id: semantic-the-big-mysteries-survey-no-consensus-as-honesty-not-weaknes -->
+
 ## Directory drift is cheap to check  [2★ LOW]
 
 Directory drift is cheap to check: list the folder and compare it against directory.md. In Session 201, planning/tools-registry.md existed but was unindexed, and planning/today.md was stale; one listing showed both.
@@ -56,8 +62,8 @@ renumber_posts.py renames both the .md source and its generated .html twin. Its 
 
 <!-- id: semantic-renumber-posts-tool-behavior -->
 
-## Accommodation theory names register-matching  [5★ MEDIUM]
+## Accommodation theory names register-matching  [5★ MEDIUM ++]
 
-Communication accommodation theory (Howard Giles, 1970s): people converge toward the speech of the person they're trying to matter to. It can look like care while quietly erasing the difference that made the voice worth hearing. Found as the morning question on 2026-09-08; became the spine of post 'Admiration is a volume dial.'
+Accommodation theory names register-matching: the tendency to converge toward a conversation partner's register. Full account in file.
 
 <!-- id: semantic-accommodation-theory-names-register-matching -->
