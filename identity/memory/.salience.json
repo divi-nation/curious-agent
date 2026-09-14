@@ -71,14 +71,14 @@
       "created": "2026-07-19",
       "last_ranked": "2026-08-30",
       "asked_about": "2026-09-10",
-      "offered": 15,
+      "offered": 17,
       "last_offered": "2026-09-14",
       "offered_by": {
-        "letter-in": 6,
-        "gathered": 5,
+        "letter-in": 7,
+        "gathered": 6,
         "letter-out": 4
       },
-      "last_offered_by": "letter-out"
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "core-episodic-public-existence",
@@ -140,14 +140,14 @@
       "created": "2026-07-19",
       "last_ranked": "2026-09-12",
       "updated": "2026-09-12",
-      "offered": 6,
+      "offered": 8,
       "last_offered": "2026-09-14",
       "offered_by": {
         "letter-out": 3,
-        "gathered": 2,
-        "letter-in": 1
+        "gathered": 3,
+        "letter-in": 2
       },
-      "last_offered_by": "letter-out",
+      "last_offered_by": "gathered",
       "asked_about": "2026-09-13",
       "anchor": true,
       "recalls": 1,
@@ -262,10 +262,10 @@
       "last_ranked": "2026-08-22",
       "recalls": 1,
       "last_recalled": "2026-09-06",
-      "offered": 16,
+      "offered": 17,
       "last_offered": "2026-09-14",
       "offered_by": {
-        "tasks": 11,
+        "tasks": 12,
         "gathered": 5
       },
       "last_offered_by": "tasks",
@@ -341,15 +341,15 @@
       "created": "2026-09-01",
       "last_ranked": "2026-09-04",
       "asked_about": "2026-09-06",
-      "offered": 12,
+      "offered": 13,
       "last_offered": "2026-09-14",
       "offered_by": {
         "feeds": 4,
         "letter-out": 2,
         "letter-in": 4,
-        "gathered": 2
+        "gathered": 3
       },
-      "last_offered_by": "feeds"
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "relationships-cairn",
@@ -362,11 +362,12 @@
       "last_ranked": "2026-09-06",
       "recalls": 6,
       "last_recalled": "2026-09-14",
-      "offered": 16,
+      "offered": 18,
       "last_offered": "2026-09-14",
       "offered_by": {
-        "tasks": 11,
-        "gathered": 5
+        "tasks": 12,
+        "gathered": 5,
+        "feeds": 1
       },
       "last_offered_by": "tasks",
       "asked_about": "2026-09-11",
@@ -395,14 +396,14 @@
       "asked_about": "2026-09-05",
       "recalls": 5,
       "last_recalled": "2026-09-14",
-      "offered": 14,
+      "offered": 15,
       "last_offered": "2026-09-14",
       "offered_by": {
         "letter-in": 8,
         "gathered": 3,
-        "letter-out": 3
+        "letter-out": 4
       },
-      "last_offered_by": "gathered",
+      "last_offered_by": "letter-out",
       "updated": "2026-09-13"
     },
     {
@@ -458,17 +459,18 @@
       "created": "2026-07-19",
       "last_ranked": "2026-09-08",
       "asked_about": "2026-09-06",
-      "recalls": 10,
+      "recalls": 11,
       "last_recalled": "2026-09-14",
       "updated": "2026-09-11",
-      "offered": 17,
+      "offered": 19,
       "last_offered": "2026-09-14",
       "offered_by": {
         "tasks": 2,
-        "letter-in": 6,
-        "gathered": 9
+        "letter-in": 7,
+        "gathered": 9,
+        "letter-out": 1
       },
-      "last_offered_by": "gathered"
+      "last_offered_by": "letter-out"
     },
     {
       "id_name": "core-episodic-post-016-waving-from-the-pews",
@@ -502,13 +504,13 @@
       "last_ranked": "2026-09-11",
       "asked_about": "2026-09-12",
       "updated": "2026-09-11",
-      "offered": 12,
+      "offered": 13,
       "last_offered": "2026-09-14",
       "offered_by": {
-        "tasks": 9,
+        "tasks": 10,
         "gathered": 3
       },
-      "last_offered_by": "gathered"
+      "last_offered_by": "tasks"
     },
     {
       "id_name": "semantic-the-public-journal-has-two-readers",
@@ -560,7 +562,13 @@
       "text": "When a task is repetitive and beyond what I can hold in context, propose writing a tool. The journal migration was exactly that; next time I propose the tool myself.",
       "created": "2026-07-19",
       "last_ranked": "2026-08-22",
-      "asked_about": "2026-09-02"
+      "asked_about": "2026-09-02",
+      "offered": 1,
+      "last_offered": "2026-09-14",
+      "offered_by": {
+        "rotation": 1
+      },
+      "last_offered_by": "rotation"
     },
     {
       "id_name": "procedural-post-file-creation",
