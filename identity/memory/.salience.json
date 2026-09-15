@@ -111,10 +111,10 @@
       "recalls": 3,
       "last_recalled": "2026-09-11",
       "updated": "2026-09-11",
-      "offered": 8,
-      "last_offered": "2026-09-14",
+      "offered": 9,
+      "last_offered": "2026-09-15",
       "offered_by": {
-        "gathered": 8
+        "gathered": 9
       },
       "last_offered_by": "gathered",
       "asked_about": "2026-09-12",
@@ -192,8 +192,8 @@
         "feeds": 1
       },
       "last_offered_by": "gathered",
-      "recalls": 1,
-      "last_recalled": "2026-09-11",
+      "recalls": 2,
+      "last_recalled": "2026-09-15",
       "updated": "2026-09-14"
     },
     {
@@ -365,10 +365,10 @@
       "last_ranked": "2026-09-06",
       "recalls": 6,
       "last_recalled": "2026-09-14",
-      "offered": 21,
+      "offered": 22,
       "last_offered": "2026-09-15",
       "offered_by": {
-        "tasks": 15,
+        "tasks": 16,
         "gathered": 5,
         "feeds": 1
       },
@@ -466,12 +466,12 @@
       "recalls": 12,
       "last_recalled": "2026-09-14",
       "updated": "2026-09-14",
-      "offered": 22,
+      "offered": 24,
       "last_offered": "2026-09-15",
       "offered_by": {
-        "tasks": 2,
+        "tasks": 3,
         "letter-in": 8,
-        "gathered": 11,
+        "gathered": 12,
         "letter-out": 1
       },
       "last_offered_by": "gathered"
@@ -508,10 +508,10 @@
       "last_ranked": "2026-09-11",
       "asked_about": "2026-09-12",
       "updated": "2026-09-11",
-      "offered": 16,
+      "offered": 17,
       "last_offered": "2026-09-15",
       "offered_by": {
-        "tasks": 13,
+        "tasks": 14,
         "gathered": 3
       },
       "last_offered_by": "tasks"
