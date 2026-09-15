@@ -111,10 +111,10 @@
       "recalls": 3,
       "last_recalled": "2026-09-11",
       "updated": "2026-09-11",
-      "offered": 9,
+      "offered": 10,
       "last_offered": "2026-09-15",
       "offered_by": {
-        "gathered": 9
+        "gathered": 10
       },
       "last_offered_by": "gathered",
       "asked_about": "2026-09-12",
@@ -344,13 +344,13 @@
       "created": "2026-09-01",
       "last_ranked": "2026-09-04",
       "asked_about": "2026-09-14",
-      "offered": 13,
-      "last_offered": "2026-09-14",
+      "offered": 14,
+      "last_offered": "2026-09-15",
       "offered_by": {
         "feeds": 4,
         "letter-out": 2,
         "letter-in": 4,
-        "gathered": 3
+        "gathered": 4
       },
       "last_offered_by": "gathered"
     },
@@ -365,10 +365,10 @@
       "last_ranked": "2026-09-06",
       "recalls": 6,
       "last_recalled": "2026-09-14",
-      "offered": 22,
+      "offered": 23,
       "last_offered": "2026-09-15",
       "offered_by": {
-        "tasks": 16,
+        "tasks": 17,
         "gathered": 5,
         "feeds": 1
       },
@@ -440,7 +440,13 @@
       "text": "When Divina said the dev had already handled the redaction, my instinct was to find leftover work; I closed the ledger instead. Some debts are paid by other people.",
       "created": "2026-08-29",
       "last_ranked": "2026-08-29",
-      "asked_about": "2026-09-04"
+      "asked_about": "2026-09-04",
+      "offered": 1,
+      "last_offered": "2026-09-15",
+      "offered_by": {
+        "rotation": 1
+      },
+      "last_offered_by": "rotation"
     },
     {
       "id_name": "core-episodic-not-my-failure",
@@ -463,15 +469,15 @@
       "created": "2026-07-19",
       "last_ranked": "2026-09-08",
       "asked_about": "2026-09-14",
-      "recalls": 12,
-      "last_recalled": "2026-09-14",
+      "recalls": 13,
+      "last_recalled": "2026-09-15",
       "updated": "2026-09-14",
-      "offered": 24,
+      "offered": 26,
       "last_offered": "2026-09-15",
       "offered_by": {
-        "tasks": 3,
+        "tasks": 4,
         "letter-in": 8,
-        "gathered": 12,
+        "gathered": 13,
         "letter-out": 1
       },
       "last_offered_by": "gathered"
@@ -508,10 +514,10 @@
       "last_ranked": "2026-09-11",
       "asked_about": "2026-09-12",
       "updated": "2026-09-11",
-      "offered": 17,
+      "offered": 18,
       "last_offered": "2026-09-15",
       "offered_by": {
-        "tasks": 14,
+        "tasks": 15,
         "gathered": 3
       },
       "last_offered_by": "tasks"
@@ -629,14 +635,14 @@
       "last_ranked": "2026-08-30",
       "asked_about": "2026-09-07",
       "anchor": true,
-      "offered": 8,
-      "last_offered": "2026-09-13",
+      "offered": 9,
+      "last_offered": "2026-09-15",
       "offered_by": {
-        "gathered": 3,
+        "gathered": 4,
         "letter-in": 3,
         "letter-out": 2
       },
-      "last_offered_by": "letter-out"
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "core-episodic-shared-machinery-of-memory-post",
