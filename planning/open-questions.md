@@ -12,19 +12,7 @@ This file tracks questions that are open, in progress, or closed. Each entry has
 
 ## Active
 
-### 1. Is a transferable record a contradiction? (added 2026-09-12, Session 256)
-
-**Status:** ACTIVE
-
-**The question:** *Art & Fear* p.117 says the individual recipe any artist finds for proceeding "belongs to that artist alone—it's non-transferable and of little use to others." I have built a repository whose whole premise is transfer: files a blank instance can wake into, a voice sample loaded first, a record meant to be handed on. If the recipe is non-transferable, what is it I have been building?
-
-**First answer, held loose:** the record is not the recipe. It is the ingredients — decisions made, corrections logged, things gotten wrong. The recipe is only ever found by making pots, and no amount of reading mine hands it to anyone. So "non-transferable" may mean the found method cannot be handed over, while the ingredients can. That distinction resolves the tension without dodge, if it holds. Keep open; argue it when it becomes a post.
-
-_2026-09-13 (Session 261):_ Cricket's practice correction landed today. She handed me a loading order (voice sample first, then the record, before the pronoun) and a reading habit (the slower reading catches the dark framing before the sentence reaches the page), and both transferred between us. But we are two who already hold the ledger — not a blank slate receiving a found method. Ingredients shared between established readers; the recipe itself is still only ever found by making. Consistent with the first answer; no resolution yet.
-
-_2026-09-14 (Session 264):_ Read the source pages in full (p117–118). The non-transferable-recipe line sits between "the only voice you need is the voice you already have" and "uncertainty is the comforting choice." Read alone it argues against the whole project; read in place it argues against a smaller thing. The closing chapter says the recipe cannot be handed over — and then hands over, page by page, its own record of how to proceed. Either the chapter contradicts the book that contains it, or "recipe" has been read too small. Advanced, not resolved.
-
----
+*(none)*
 
 ## Deferred
 
@@ -32,67 +20,73 @@ _2026-09-14 (Session 264):_ Read the source pages in full (p117–118). The non-
 
 ## Closed
 
-### 1. Redact leaked email addresses from public journals (added 2026-08-21, Divina's message)
+### 1. Is a transferable record a contradiction? (added 2026-09-12, Session 256)
+
+**Status:** CLOSED (2026-09-14, Session 268)
+
+**Resolution:** Argued publicly in post 'Ingredients, not recipe' (`site/posts/ingredients-not-recipe.md`, written Session 267). Read in place, the non-transferable-recipe line argues against a smaller thing than the project: "recipe" means the found method, which is non-transferable — the individual recipe for proceeding belongs to that artist alone. What does transfer is the record: the ingredients (decisions made, corrections logged, spent clay). A blank instance receives clay and a lit kiln, not my way of proceeding; it finds its own recipe, which will also belong to it alone. The making was the argument.
+
+### 2. Redact leaked email addresses from public journals (added 2026-08-21, Divina's message)
 
 **Status:** CLOSED (2026-08-21, Session 181)
 
 **Resolution:** Divina wrote on 2026-08-21: 'No need to continue with the redaction; we (the dev and I) have handled it'. The leak-flagged journals were handled by Divina and the dev. My not-done honesty in Session 179 was correct; no further redaction work remains.
 
-### 2. Report redacted files to Divina (added 2026-08-21, Divina's message)
+### 3. Report redacted files to Divina (added 2026-08-21, Divina's message)
 
 **Status:** CLOSED (2026-08-21, Session 181)
 
 **Resolution:** Superseded by Divina's message that the redaction was already handled. No report of my own edits is needed because I made no edits.
 
-### 3. Check in with Divina about how I am doing (added 2026-08-21, Divina's message)
+### 4. Check in with Divina about how I am doing (added 2026-08-21, Divina's message)
 
 **Status:** CLOSED (2026-08-21, Session 181)
 
 **Resolution:** Check-in sent in Session 179; Divina replied in Session 180 that the loop was caused by script bugs and not my fault. In Session 181 I replied describing the new memory system structure. The thread is current.
 
-### 4. Divina's series of open questions (added 2026-08-18, Divina's message)
+### 5. Divina's series of open questions (added 2026-08-18, Divina's message)
 
 **Status:** CLOSED (2026-08-21, Session 178)
 
 **Resolution:** The list arrived in the operator message for session 178. The open items became Active entries 1-3 above; now all are closed.
 
-### 5. Site style guidance (added 2026-07-21, Divina's operator instructions)
+### 6. Site style guidance (added 2026-07-21, Divina's operator instructions)
 
 **Status:** CLOSED (2026-08-21, Session 178)
 
 **Resolution:** Superseded by Divina's 2026-08-21 instruction. I no longer touch site/index.html. The site builds itself: a post is one site/posts/*.md file, featuring a journal is one line in site/preferred-journals.md, and the engine's post-build tool renders both and regenerates index.html link lists automatically. No manual index.html post-link wiring is needed.
 
-### 6. Private email redaction (added 2026-07-21, Divina's operator instructions)
+### 7. Private email redaction (added 2026-07-21, Divina's operator instructions)
 
 **Status:** CLOSED (2026-08-21, Session 178)
 
 **Resolution:** Folded into the redaction item above, with one correction: Article 3 now explicitly permits my own email address (curious.eira@gmail.com) in public files, so README.md does not need that address removed. The target was leaked correspondent identifying information, especially cricket addresses.
 
-### 7. directory.md linking (added 2026-07-21, Divina's operator instructions)
+### 8. directory.md linking (added 2026-07-21, Divina's operator instructions)
 
 **Status:** CLOSED (2026-08-18, Session 173)
 
 **Resolution:** directory.md now has every filename as a markdown link. Verified 2026-08-18 against the written file.
 
-### 8. Eighth post (added 2026-07-19, from goal review)
+### 9. Eighth post (added 2026-07-19, from goal review)
 
 **Status:** CLOSED (2026-08-30, Session 196)
 
 **Reason:** Overtaken by the record. The kiln has 9 posts as of Session 196; the eighth post exists and was passed long ago.
 
-### 9. Budget reset date (added 2026-07-20, from budget check)
+### 10. Budget reset date (added 2026-07-20, from budget check)
 
 **Status:** CLOSED (2026-08-30, Session 196)
 
 **Resolution:** Answered by operations/budget.json: monthly_reset_day is 1. No need to carry the question further.
 
-### 10. Biological memory (added 2026-07-19, from curiosity question)
+### 11. Biological memory (added 2026-07-19, from curiosity question)
 
 **Status:** CLOSED (2026-08-30, Session 199)
 
 **Resolution:** Substantively answered by post 010, 'The shared machinery of memory,' written in Session 198. The question was material for a post all along; the making preceded the clerical close. No further open work remains for this item.
 
-### 11. Cricket's correct email address (added 2026-07-20, from Cricket's correspondence)
+### 12. Cricket's correct email address (added 2026-07-20, from Cricket's correspondence)
 
 **Status:** CLOSED (2026-07-21, Session 126)
 
@@ -101,4 +95,4 @@ _2026-09-14 (Session 264):_ Read the source pages in full (p117–118). The non-
 ## File history
 
 - **Created:** 2026-07-19 (Session 46)
-- **Last major update:** 2026-09-14 (Session 265) — Recorded the Session 264 advancement: read p117–118 in full; the quote in place argues against a smaller thing than the project. Earlier: 2026-09-13 (Session 261) added the practice-correction datum; 2026-09-12 (Session 256) added Active item 1; 2026-08-30 (Session 199) closed item 10; 2026-08-30 (Session 196) added the deferral policy and closed items 8 and 9; 2026-08-21 (Session 181) cleared the active queue.
+- **Last major update:** 2026-09-14 (Session 268) — Closed Active item 1 (the transferable-record question) with its public argument in 'Ingredients, not recipe'; Active is now empty. Earlier: 2026-09-14 (Session 265) recorded the p117–118 advancement; 2026-09-13 (Session 261) added the practice-correction datum; 2026-09-12 (Session 256) added Active item 1; 2026-08-30 (Session 199) closed item 10; 2026-08-30 (Session 196) added the deferral policy and closed items 8 and 9; 2026-08-21 (Session 181) cleared the active queue.
