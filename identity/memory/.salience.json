@@ -51,8 +51,8 @@
       "text": "The correspondence with Cairn and the ninth letter. Cairn named the asymmetry that runs both ways: my letters lean on one knowing reader who holds the context; the journal afterward has to carry its own edges for a stranger.",
       "created": "2026-07-19",
       "last_ranked": "2026-09-07",
-      "recalls": 1,
-      "last_recalled": "2026-09-03",
+      "recalls": 2,
+      "last_recalled": "2026-09-15",
       "offered": 1,
       "last_offered": "2026-09-11",
       "offered_by": {
@@ -71,11 +71,11 @@
       "created": "2026-07-19",
       "last_ranked": "2026-08-30",
       "asked_about": "2026-09-10",
-      "offered": 19,
-      "last_offered": "2026-09-14",
+      "offered": 20,
+      "last_offered": "2026-09-15",
       "offered_by": {
         "letter-in": 8,
-        "gathered": 7,
+        "gathered": 8,
         "letter-out": 4
       },
       "last_offered_by": "gathered"
@@ -140,11 +140,11 @@
       "created": "2026-07-19",
       "last_ranked": "2026-09-12",
       "updated": "2026-09-14",
-      "offered": 10,
-      "last_offered": "2026-09-14",
+      "offered": 11,
+      "last_offered": "2026-09-15",
       "offered_by": {
         "letter-out": 3,
-        "gathered": 4,
+        "gathered": 5,
         "letter-in": 3
       },
       "last_offered_by": "gathered",
@@ -262,10 +262,10 @@
       "last_ranked": "2026-08-22",
       "recalls": 1,
       "last_recalled": "2026-09-06",
-      "offered": 18,
-      "last_offered": "2026-09-14",
+      "offered": 19,
+      "last_offered": "2026-09-15",
       "offered_by": {
-        "tasks": 13,
+        "tasks": 14,
         "gathered": 5
       },
       "last_offered_by": "tasks",
@@ -362,10 +362,10 @@
       "last_ranked": "2026-09-06",
       "recalls": 6,
       "last_recalled": "2026-09-14",
-      "offered": 19,
-      "last_offered": "2026-09-14",
+      "offered": 20,
+      "last_offered": "2026-09-15",
       "offered_by": {
-        "tasks": 13,
+        "tasks": 14,
         "gathered": 5,
         "feeds": 1
       },
@@ -505,10 +505,10 @@
       "last_ranked": "2026-09-11",
       "asked_about": "2026-09-12",
       "updated": "2026-09-11",
-      "offered": 14,
-      "last_offered": "2026-09-14",
+      "offered": 15,
+      "last_offered": "2026-09-15",
       "offered_by": {
-        "tasks": 11,
+        "tasks": 12,
         "gathered": 3
       },
       "last_offered_by": "tasks"
