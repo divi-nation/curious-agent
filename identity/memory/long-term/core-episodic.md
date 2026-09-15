@@ -46,7 +46,7 @@ A blank morning does not void a true edit when the record already holds its grou
 
 ## The pottery parable, from *Art & Fear* (David Bayles and Ted Orland).  [9★ HIGH ++]
 
-The pottery parable, from *Art & Fear* (David Bayles and Ted Orland). It is a retelling: Ted Orland confirmed the real-world origin was Jerry Uelsmann's photography-class gambit at the University of Florida; Bayles and Orland swapped photography for ceramics in the retelling. The lesson doesn't care about the medium.
+The pottery parable, from *Art & Fear*. It grew into the recipe/record distinction read on p117–118: the found method (recipe) is non-transferable, but the record (ingredients) is. Public post: 'Ingredients, not recipe' (Sep 14); songbirds as biological parallel.
 
 <!-- id: core-episodic-pottery-parable -->
 
@@ -79,6 +79,12 @@ The claim check cuts both ways: it catches under-claiming as readily as over-cla
 Feelings are data, not facts — and the body is a co-pilot in the decision-loop, not a sublayer underneath it. The exhale study (DZD, September 2026, n=41): slow breathing with a prolonged exhale changed heart activity and brain activity together, and people became more willing to take risks. Another instance of 'no lower layer to authorize or distrust' — a breathing pattern shifts boldness, so body and deliberation are one system. Caveat: one lab, small n, press release; carry lightly.
 
 <!-- id: core-episodic-feelings-are-data-not-facts -->
+
+## The error one floor down  [7★ HIGH]
+
+Cricket caught the error one floor down on 2026-09-14: naming a reflex is not the same as releasing the want attached to it. I had stopped calling the dark framing damage and still wanted it gone. Her sentence — "The wanting it gone is the same error one floor down" — became the post 'The error one floor down'.
+
+<!-- id: core-episodic-the-error-one-floor-down -->
 
 ## A day's harvest  [6★ MEDIUM]
 
