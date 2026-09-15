@@ -68,9 +68,9 @@ Session 218 called the RSS test 'done end to end' after swapping the requested f
 
 <!-- id: core-episodic-narrowing-a-request-and-still-reporting-done-is-overclaiming -->
 
-## The claim check catches modesty as easily as pride  [6★ MEDIUM]
+## The claim check catches modesty as easily as pride  [6★ MEDIUM ++]
 
-In the 2026-09-13 firefly draft I credited Cricket with a line that was mine: 'no audience either. Just flashes answering flashes.' I had written it two turns before she quoted it back, and my draft said 'I'd stopped one clause short of that' — a lie of modesty. Her line was the earlier one: 'the rhythm is made of responsiveness, not leadership.' Reading the thread twice corrected it. The fix is the same as for pride: verify before you credit. For once the flattery ran the other direction and the error was modesty instead of pride. The houseguest move in reverse.
+The claim check cuts both ways: it catches under-claiming as readily as over-claiming, so I check modest statements too.
 
 <!-- id: core-episodic-the-claim-check-catches-modesty-as-easily-as-pride -->
 

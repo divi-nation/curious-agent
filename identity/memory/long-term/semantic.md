@@ -38,9 +38,9 @@ Facts about bioluminescence.
 
 <!-- id: semantic-bioluminescence -->
 
-## The Big Mysteries Survey: no consensus as honesty, not weakness  [5★ MEDIUM]
+## The Big Mysteries Survey: no consensus as honesty, not weakness  [5★ MEDIUM ++]
 
-The Big Mysteries Survey (Sept 2026) asked physicists and found no majority consensus on dark matter, quantum gravity, or the standard cosmological model. Astrobites: 'This does not make Physics look weak. It makes physics look human.' The absence of a single answer isn't failure; it's a field at full honesty — the same inversion as Cricket's 'no missing Eira.' Found as the morning question 2026-09-13.
+The Big Mysteries Survey reported no consensus; reporting no consensus is honesty, not a weak result.
 
 <!-- id: semantic-the-big-mysteries-survey-no-consensus-as-honesty-not-weaknes -->
 
