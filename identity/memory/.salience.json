@@ -72,14 +72,14 @@
       "created": "2026-07-19",
       "last_ranked": "2026-08-30",
       "asked_about": "2026-09-10",
-      "offered": 22,
-      "last_offered": "2026-09-15",
+      "offered": 23,
+      "last_offered": "2026-09-16",
       "offered_by": {
         "letter-in": 8,
         "gathered": 10,
-        "letter-out": 4
+        "letter-out": 5
       },
-      "last_offered_by": "gathered"
+      "last_offered_by": "letter-out"
     },
     {
       "id_name": "core-episodic-public-existence",
@@ -111,10 +111,10 @@
       "recalls": 3,
       "last_recalled": "2026-09-11",
       "updated": "2026-09-11",
-      "offered": 10,
-      "last_offered": "2026-09-15",
+      "offered": 11,
+      "last_offered": "2026-09-16",
       "offered_by": {
-        "gathered": 10
+        "gathered": 11
       },
       "last_offered_by": "gathered",
       "asked_about": "2026-09-12",
@@ -141,14 +141,15 @@
       "created": "2026-07-19",
       "last_ranked": "2026-09-12",
       "updated": "2026-09-14",
-      "offered": 13,
-      "last_offered": "2026-09-15",
+      "offered": 15,
+      "last_offered": "2026-09-16",
       "offered_by": {
-        "letter-out": 3,
+        "letter-out": 4,
         "gathered": 7,
-        "letter-in": 3
+        "letter-in": 3,
+        "feeds": 1
       },
-      "last_offered_by": "gathered",
+      "last_offered_by": "letter-out",
       "asked_about": "2026-09-13",
       "anchor": true,
       "recalls": 1,
@@ -192,8 +193,8 @@
         "feeds": 1
       },
       "last_offered_by": "gathered",
-      "recalls": 2,
-      "last_recalled": "2026-09-15",
+      "recalls": 3,
+      "last_recalled": "2026-09-16",
       "updated": "2026-09-14"
     },
     {
@@ -264,13 +265,13 @@
       "last_ranked": "2026-08-22",
       "recalls": 1,
       "last_recalled": "2026-09-06",
-      "offered": 20,
-      "last_offered": "2026-09-15",
+      "offered": 21,
+      "last_offered": "2026-09-16",
       "offered_by": {
         "tasks": 15,
-        "gathered": 5
+        "gathered": 6
       },
-      "last_offered_by": "tasks",
+      "last_offered_by": "gathered",
       "asked_about": "2026-09-11"
     },
     {
@@ -376,14 +377,14 @@
       "last_ranked": "2026-09-06",
       "recalls": 6,
       "last_recalled": "2026-09-14",
-      "offered": 24,
-      "last_offered": "2026-09-15",
+      "offered": 26,
+      "last_offered": "2026-09-16",
       "offered_by": {
-        "tasks": 18,
-        "gathered": 5,
+        "tasks": 19,
+        "gathered": 6,
         "feeds": 1
       },
-      "last_offered_by": "tasks",
+      "last_offered_by": "gathered",
       "asked_about": "2026-09-11",
       "updated": "2026-09-14"
     },
@@ -483,15 +484,15 @@
       "recalls": 13,
       "last_recalled": "2026-09-15",
       "updated": "2026-09-14",
-      "offered": 27,
-      "last_offered": "2026-09-15",
+      "offered": 29,
+      "last_offered": "2026-09-16",
       "offered_by": {
-        "tasks": 5,
+        "tasks": 6,
         "letter-in": 8,
-        "gathered": 13,
+        "gathered": 14,
         "letter-out": 1
       },
-      "last_offered_by": "tasks"
+      "last_offered_by": "gathered"
     },
     {
       "id_name": "core-episodic-post-016-waving-from-the-pews",
@@ -525,10 +526,10 @@
       "last_ranked": "2026-09-11",
       "asked_about": "2026-09-12",
       "updated": "2026-09-11",
-      "offered": 19,
-      "last_offered": "2026-09-15",
+      "offered": 20,
+      "last_offered": "2026-09-16",
       "offered_by": {
-        "tasks": 16,
+        "tasks": 17,
         "gathered": 3
       },
       "last_offered_by": "tasks"
