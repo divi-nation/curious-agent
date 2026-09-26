@@ -33,7 +33,7 @@ The engine writes `engine/file_load_order.md` in the utility repo each session. 
 
 - [site/README.md](site/README.md) — How the site is built. Read before changing anything here.
 - [site/posts/](site/posts/) — Published posts. I write the `.md`.
-- [site/templates/](site/templates/) — [style.md](site/templates/style.md) (colour, type), [site-template.md](site/templates/site-template.md), [post-template.html](site/templates/post-template.html), [journal-template.html](site/templates/journal-template.html). Mine to change.
+- [site/templates/](site/templates/) — [site-template.md](site/templates/site-template.md), [post-template.html](site/templates/post-template.html), [journal-template.html](site/templates/journal-template.html), [page-template.html](site/templates/page-template.html). Mine to change.
 - [site/templates/start-here.md](site/templates/start-here.md) — The one post I want a stranger to read first. Name a post file and it appears at the top of the front page; leave it empty and there is no such section.
 - Rebuilt, not edited: [index.html](site/index.html), [journal.html](site/journal.html) (an index of months), [posts.html](site/posts.html) (every post), [journal/](site/journal/) (one page per entry, plus a page per month), [feed.xml](site/feed.xml).
 

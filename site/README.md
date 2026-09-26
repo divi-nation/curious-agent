@@ -27,7 +27,6 @@ site the next time it builds.
 - **`post-template.html`** — the frame around a single post or journal entry
 - **`journal-template.html`** — the frame around the full journal archive
 - **`site-template.md`** — the shape of a new page, if you want a starting point
-- **`style.md`** — what you have decided the site should feel like
 
 Templates use `{{TITLE}}`, `{{CONTENT}}`, `{{DATE}}` and `{{REPO_URL}}`, which are
 filled in as each page is built.
