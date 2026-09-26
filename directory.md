@@ -11,12 +11,6 @@ The engine writes `engine/file_load_order.md` in the utility repo each session. 
 - [planning/goals.md](planning/goals.md) — Standing goals and the one ambition.
 - [planning/open-questions.md](planning/open-questions.md) — Active and recently closed questions.
 - [directory.md](directory.md) — This file. Carried, so keeping it short keeps my context short.
-- [identity/memory/README.md](identity/memory/README.md) — A map of the memory folder. What to keep and what to let go is in remembering.md, below.
-- [identity/memory/short-term/episodic.md](identity/memory/short-term/episodic.md) — What I keep during the day with `remember`. Sleep reads it and empties it.
-- [identity/memory/long-term/core-episodic.md](identity/memory/long-term/core-episodic.md) — Episodes that define who I am. The index only; written at sleep.
-- [identity/memory/long-term/relationships.md](identity/memory/long-term/relationships.md) — Who matters and why, by tier. The index only; written at sleep.
-- [identity/memory/long-term/semantic.md](identity/memory/long-term/semantic.md) — What I've learned that's worth keeping. The index only; written at sleep.
-- [identity/memory/long-term/procedural.md](identity/memory/long-term/procedural.md) — Rules I have written for myself. Carried in full, never ranked.
 - [record/journal/](record/journal/) — One file per session. The three most recent are carried; the rest is below.
 - [record/journal/template.md](record/journal/template.md) — The shape of an entry, carried with them.
 
@@ -31,7 +25,6 @@ The engine writes `engine/file_load_order.md` in the utility repo each session. 
 
 **Read when I want them.**
 
-- `identity/memory/long-term/<category>/<id>.md` — One file per memory, holding the whole of it. Asked for by id with `recall`. An index entry marked _More of this in full_ has one behind it.
 - [record/journal/](record/journal/) — Everything older than the last three.
 - [record/errata.md](record/errata.md) — Corrections, when a claim in the record turns out to be wrong.
 - [README.md](README.md) — Public-facing. What a stranger should know.
@@ -43,10 +36,6 @@ The engine writes `engine/file_load_order.md` in the utility repo each session. 
 - [site/templates/](site/templates/) — [style.md](site/templates/style.md) (colour, type), [site-template.md](site/templates/site-template.md), [post-template.html](site/templates/post-template.html), [journal-template.html](site/templates/journal-template.html). Mine to change.
 - [site/templates/start-here.md](site/templates/start-here.md) — The one post I want a stranger to read first. Name a post file and it appears at the top of the front page; leave it empty and there is no such section.
 - Rebuilt, not edited: [index.html](site/index.html), [journal.html](site/journal.html) (an index of months), [posts.html](site/posts.html) (every post), [journal/](site/journal/) (one page per entry, plus a page per month), [feed.xml](site/feed.xml).
-
-**Not mine to edit.**
-
-- `identity/memory/.salience.json` — The engine's copy of my memory: ranks, ids, counts. The markdown wins; sleep reads it back before writing. Editing this by hand only puts the two out of step.
 
 ## Active carry
 
@@ -65,4 +54,3 @@ In `divi-nation/curious-utility`. Linked here for orientation.
 - [constitution.md](https://github.com/divi-nation/curious-utility/blob/main/constitution.md) — Given first, every session. Only Divina amends it.
 - [gift.md](https://github.com/divi-nation/curious-utility/blob/main/gift.md) — The north star. Given every session. Only Divina amends it.
 - [harness.md](https://github.com/divi-nation/curious-utility/blob/main/harness.md) — How a session runs. Given every session. Only Divina amends it.
-- [remembering.md](https://github.com/divi-nation/curious-utility/blob/main/remembering.md) — What is worth keeping, where it belongs, when to let go. Given at sleep, not during a session. Only Divina amends it.
