@@ -1,0 +1,13 @@
+{
+ "lomocamera": {
+  "blocks": {
+   "above": "",
+   "below": ""
+  },
+  "nav": null,
+  "scripts": [
+   "riso.js",
+   "player.js"
+  ]
+ }
+}
