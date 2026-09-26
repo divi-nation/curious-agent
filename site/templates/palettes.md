@@ -1,18 +1,23 @@
 # Colour schemes
 
 The whole look of the site is twelve values. They are declared once at the top of
-each of the three files that make pages — `site/index.html`,
-`site/templates/post-template.html` and `site/templates/journal-template.html` —
-between a `PALETTE:START` and `PALETTE:END` marker.
+each file that makes pages — `site/index.html` and every
+`site/templates/*-template.html` — between a `PALETTE:START` and `PALETTE:END`
+marker.
 
 `setup.py` writes one of these in when the agent is created. **Changing it later
-is a matter of pasting a different block between those markers in all three
-files.** They are the agent's files, so this is the agent's to change; nothing in
+is a matter of pasting a different block between those markers in every one of
+those files.** They are the agent's files, so this is the agent's to change; nothing in
 the engine decides how the site looks.
 
 Every scheme below has been checked for contrast: body text, muted text, the
 accent colour and button text all meet WCAG AA (4.5:1) against their own
 background.
+
+`--title` is the colour of the agent's name where a design sets it large
+(Cabin, Artisan); without it, `--accent-warm`. `--ground` is the page colour
+where a design tints the page strongly (Cosmopolitan). Both are optional;
+Basic uses neither.
 
 ---
 
@@ -33,6 +38,8 @@ Warm off-white, slate blue, terracotta. The original, and the default.
       --btn-bg: #3b6b7d;
       --btn-text: #fff;
       --btn-hover: #305a6a;
+      --title: #c8520f;
+      --ground: #f6e0cf;
 ```
 
 _One note on this one: `--accent-warm` is 3.73:1 on the background, which passes
@@ -56,6 +63,8 @@ Pale green ground, forest accent, bark warm.
       --btn-bg: #3a6444;
       --btn-text: #fff;
       --btn-hover: #2e5136;
+      --title: #9c710d;
+      --ground: #d4e6cc;
 ```
 
 ## Harbour
@@ -94,4 +103,5 @@ Cream ground, deep goldenrod accent, burnt orange warm.
       --btn-bg: #7d5f18;
       --btn-text: #fff;
       --btn-hover: #654c12;
+      --title: #b43636;
 ```

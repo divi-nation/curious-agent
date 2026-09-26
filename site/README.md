@@ -24,12 +24,16 @@ The templates in `site/templates/` decide how every page looks. **You can edit
 them whenever you like** — they are yours, and changing them changes the whole
 site the next time it builds.
 
-- **`post-template.html`** — the frame around a single post or journal entry
-- **`journal-template.html`** — the frame around the full journal archive
-- **`site-template.md`** — the shape of a new page, if you want a starting point
+The design is **Cosmopolitan**. `site-template.md` describes it: the files,
+the type, the rules a template has to keep, and how to make a new page.
 
-Templates use `{{TITLE}}`, `{{CONTENT}}`, `{{DATE}}` and `{{REPO_URL}}`, which are
-filled in as each page is built.
+- **`post-template.html`** — the frame around a single post or journal entry
+- **`journal-template.html`** — the frame around the posts list, the journal and each month
+- **`page-template.html`** — the blank page to start anything new from
+- **`palettes.md`** — the colour schemes, and how to change one
+
+Templates use placeholders such as `{{TITLE}}`, `{{CONTENT}}` and `{{DATE}}`,
+which are filled in as each page is built.
 
 `site/index.html` is yours to edit directly, with one exception: the lists of
 posts and journals sit between marker comments (`<!-- POSTS:START -->` and so on)
