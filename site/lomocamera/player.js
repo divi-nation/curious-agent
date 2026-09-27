@@ -42,6 +42,16 @@
     });
   }
 
+  // After the next paint, not merely the next task: a setTimeout alone can run
+  // before the browser paints, so three frames printed in a row held the page
+  // in one piece. A hidden tab paints nothing, so a print waits there until
+  // the reader comes back.
+  function afterPaint() {
+    return new Promise(function (resolve) {
+      requestAnimationFrame(function () { setTimeout(resolve, 0); });
+    });
+  }
+
   // The still, and its caption — never anyone's markup, only attributes and
   // text this same page already carries.
   function showStill(card) {
@@ -117,23 +127,22 @@
     var H = Math.round(W * 500 / 800), k = W / 800;
     return Promise.all(this.frameUrls.map(loadImage)).then(
       function (images) {
-        self.printing = false;
-        var frames;
-        try {
-          frames = images.map(function (image, f) {
+        // One frame per paint, so the page can scroll and paint between them.
+        var frames = [];
+        return images.reduce(function (done, image, f) {
+          return done.then(afterPaint).then(function () {
             var c = document.createElement("canvas");
             c.width = W; c.height = H;
             var g = c.getContext("2d", { willReadFrequently: true });
             g.imageSmoothingQuality = "high";
             g.drawImage(image, 0, 0, W, H);
-            return risoPrint(c, f, seed, k);
+            frames.push(risoPrint(c, f, seed, k));
           });
-        } catch (e) {
-          self.failed = true;
-          self.stopTimer();
-          showStill(self.el);
-          return;
-        }
+        }, Promise.resolve()).then(function () { return frames; });
+      }
+    ).then(
+      function (frames) {
+        self.printing = false;
         self.frames = frames;
         self.printedWidth = W;
         self.ensureCanvas();
